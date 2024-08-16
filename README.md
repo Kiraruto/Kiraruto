@@ -7,4 +7,3 @@
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-henrique-b-queiroz123)
 [![BLOG](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiraruto&show_icons=true&theme=radical)
