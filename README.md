@@ -11,7 +11,7 @@
 [![BLOG](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![BLOG](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiraruto&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiraruto&layout=compact&theme=radical)
 
 ## Idee
 
