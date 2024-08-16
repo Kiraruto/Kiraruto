@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Gustavo Hnerique 👋
 
-
+🔭 Atualmente, sou um Desenvolvedor Backend Java, com 1 ano de experiência especializado em Spring Boot
+🌱 Desenvolvi diversas APIs RESTful, incluindo um projeto pessoal para gerenciar tópicos, respostas e usuários com relações complexas em um banco de dados MySQL, utilizando Spring Boot, Lombok, Flyway e Spring Security
+👯 Concluí com sucesso um desafio técnico do Itaú no GitHub, criando uma API REST para processar transações e gerar estatísticas
+💬 Meu foco intenso nos estudos me proporcionou uma sólida compreensão de Java e Spring Boot, permitindo-me superar desafios técnicos e entregar soluções eficazes
 
 
 ### Tecnologias
@@ -13,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiraruto&layout=compact&theme=transparent)
 
-## Idee
+### Idee
 
 [![BLOG](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
