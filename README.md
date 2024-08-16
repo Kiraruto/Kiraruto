@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gustavo Hnerique 👋
 
-🔭 Atualmente, sou um Desenvolvedor Backend Java, com 1 ano de experiência especializado em Spring Boot.\n
+🔭 Atualmente, sou um Desenvolvedor Backend Java, com 1 ano de experiência especializado em Spring Boot.
+
 🌱 Desenvolvi diversas APIs RESTful, incluindo um projeto pessoal para gerenciar tópicos, respostas e usuários com relações complexas em um banco de dados MySQL, utilizando Spring Boot, Lombok, Flyway e Spring Security
 👯 Concluí com sucesso um desafio técnico do Itaú no GitHub, criando uma API REST para processar transações e gerar estatísticas
 💬 Meu foco intenso nos estudos me proporcionou uma sólida compreensão de Java e Spring Boot, permitindo-me superar desafios técnicos e entregar soluções eficazes
