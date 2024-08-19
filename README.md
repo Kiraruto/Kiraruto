@@ -14,6 +14,7 @@
 [![BLOG](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![BLOG](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![BLOG](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![BLOG](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiraruto&layout=compact&theme=transparent)
 
